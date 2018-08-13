@@ -1,13 +1,3 @@
-
-
-
-welcome to github
-chandrasekhar  
-
-new line
-
-
-
-for new branch    
-
-hey ggk
+echo -n "Enter the username: "
+read text
+useradd $text
