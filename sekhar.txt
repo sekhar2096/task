@@ -1,5 +1,5 @@
 
 
 echo -n "Enter the username: "
-read text
+
 useradd $text
